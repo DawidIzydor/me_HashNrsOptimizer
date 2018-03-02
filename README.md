@@ -1,5 +1,5 @@
-# me_HashNrsOptimizer
-Program to search for better hashes
+# Hash Number Optimizer/Searcher
+Program to search for better hash functions. See why do this section
 
 We have a hash funcition with unknown coefficients
 
@@ -135,5 +135,5 @@ size_t hash(const Point2D& k)
 }
 ```
 
-And this was quite a surprise as the collision rate dropped to 30%. Then the search began.
+And this was quite a surprise as the collision rate dropped to 30%. Then the search for best coeficients began.
 
