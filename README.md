@@ -29,7 +29,7 @@ Current state should be optimized, it's just brute-force, for each point generat
 I left points (1, y) and (x, 1) unchecked as nothing special seems to be there.
 Current best is
 (5, 941) - collision rate 12.0675%
-Checked from (2, 2) to (89, 743) (87569 runs)
+Checked from (2, 2) to (275, 860) (135303 points)
 The code needs to be optimized somehow as now it takes a horrendeus amount of time to work, at least on my computer
 
 # Why do this
