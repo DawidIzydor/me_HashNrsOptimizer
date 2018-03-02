@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HashChecker", "HashChecker\HashChecker.vcxproj", "{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Debug|x64.ActiveCfg = Debug|x64
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Debug|x64.Build.0 = Debug|x64
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Debug|x86.ActiveCfg = Debug|Win32
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Debug|x86.Build.0 = Debug|Win32
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Release|x64.ActiveCfg = Release|x64
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Release|x64.Build.0 = Release|x64
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Release|x86.ActiveCfg = Release|Win32
+		{27C78F2E-5B9C-448E-8FCB-8A31CC69010B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97EB58BC-E5C7-4BCA-B971-6B1597084083}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,178 @@
+Log start Thu Mar  1 17:29:35 2018
+
+Thu Mar  1 17:29:35 2018
+ New best: 2, 2 (collisions: 20312(50.78%)
+Thu Mar  1 17:29:35 2018
+ New best: 2, 3 (collisions: 18314(45.785%)
+Thu Mar  1 17:29:36 2018
+ New best: 2, 5 (collisions: 17531(43.8275%)
+Thu Mar  1 17:29:37 2018
+ New best: 2, 7 (collisions: 16362(40.905%)
+Thu Mar  1 17:29:37 2018
+ New best: 2, 9 (collisions: 16140(40.35%)
+Thu Mar  1 17:29:38 2018
+ New best: 2, 11 (collisions: 15721(39.3025%)
+Thu Mar  1 17:29:38 2018
+ New best: 2, 13 (collisions: 15346(38.365%)
+Thu Mar  1 17:29:39 2018
+ New best: 2, 15 (collisions: 15120(37.8%)
+Thu Mar  1 17:29:40 2018
+ New best: 2, 17 (collisions: 14999(37.4975%)
+Thu Mar  1 17:29:40 2018
+ New best: 2, 19 (collisions: 14627(36.5675%)
+Thu Mar  1 17:29:41 2018
+ New best: 2, 21 (collisions: 14171(35.4275%)
+Thu Mar  1 17:29:42 2018
+ New best: 2, 23 (collisions: 14104(35.26%)
+Thu Mar  1 17:29:42 2018
+ New best: 2, 25 (collisions: 13856(34.64%)
+Thu Mar  1 17:29:43 2018
+ New best: 2, 27 (collisions: 13322(33.305%)
+Thu Mar  1 17:29:44 2018
+ New best: 2, 29 (collisions: 13205(33.0125%)
+Thu Mar  1 17:29:45 2018
+ New best: 2, 33 (collisions: 13166(32.915%)
+Thu Mar  1 17:29:46 2018
+ New best: 2, 35 (collisions: 12586(31.465%)
+Thu Mar  1 17:29:46 2018
+ New best: 2, 37 (collisions: 12371(30.9275%)
+Thu Mar  1 17:29:47 2018
+ New best: 2, 39 (collisions: 12024(30.06%)
+Thu Mar  1 17:29:48 2018
+ New best: 2, 43 (collisions: 11655(29.1375%)
+Thu Mar  1 17:29:49 2018
+ New best: 2, 45 (collisions: 11425(28.5625%)
+Thu Mar  1 17:29:49 2018
+ New best: 2, 47 (collisions: 11333(28.3325%)
+Thu Mar  1 17:29:50 2018
+ New best: 2, 49 (collisions: 11134(27.835%)
+Thu Mar  1 17:29:51 2018
+ New best: 2, 51 (collisions: 10916(27.29%)
+Thu Mar  1 17:29:51 2018
+ New best: 2, 53 (collisions: 10351(25.8775%)
+Thu Mar  1 17:29:52 2018
+ New best: 2, 55 (collisions: 10160(25.4%)
+Thu Mar  1 17:29:53 2018
+ New best: 2, 57 (collisions: 10115(25.2875%)
+Thu Mar  1 17:29:53 2018
+ New best: 2, 59 (collisions: 9836(24.59%)
+Thu Mar  1 17:29:54 2018
+ New best: 2, 61 (collisions: 9735(24.3375%)
+Thu Mar  1 17:29:55 2018
+ New best: 2, 63 (collisions: 9577(23.9425%)
+Thu Mar  1 17:29:55 2018
+ New best: 2, 65 (collisions: 9573(23.9325%)
+Thu Mar  1 17:29:56 2018
+ New best: 2, 67 (collisions: 9291(23.2275%)
+Thu Mar  1 17:29:57 2018
+ New best: 2, 69 (collisions: 9034(22.585%)
+Thu Mar  1 17:29:57 2018
+ New best: 2, 71 (collisions: 8706(21.765%)
+Thu Mar  1 17:29:59 2018
+ New best: 2, 75 (collisions: 8637(21.5925%)
+Thu Mar  1 17:29:59 2018
+ New best: 2, 77 (collisions: 8554(21.385%)
+Thu Mar  1 17:30:00 2018
+ New best: 2, 79 (collisions: 8424(21.06%)
+Thu Mar  1 17:30:01 2018
+ New best: 2, 81 (collisions: 8352(20.88%)
+Thu Mar  1 17:30:01 2018
+ New best: 2, 83 (collisions: 8206(20.515%)
+Thu Mar  1 17:30:02 2018
+ New best: 2, 85 (collisions: 8145(20.3625%)
+Thu Mar  1 17:30:03 2018
+ New best: 2, 87 (collisions: 7935(19.8375%)
+Thu Mar  1 17:30:03 2018
+ New best: 2, 89 (collisions: 7867(19.6675%)
+Thu Mar  1 17:30:04 2018
+ New best: 2, 91 (collisions: 7598(18.995%)
+Thu Mar  1 17:30:07 2018
+ New best: 2, 99 (collisions: 7110(17.775%)
+Thu Mar  1 17:30:07 2018
+ New best: 2, 101 (collisions: 7061(17.6525%)
+Thu Mar  1 17:30:08 2018
+ New best: 2, 103 (collisions: 6758(16.895%)
+Thu Mar  1 17:30:09 2018
+ New best: 2, 105 (collisions: 6751(16.8775%)
+Thu Mar  1 17:30:10 2018
+ New best: 2, 107 (collisions: 6685(16.7125%)
+Thu Mar  1 17:30:10 2018
+ New best: 2, 109 (collisions: 6443(16.1075%)
+Thu Mar  1 17:30:11 2018
+ New best: 2, 111 (collisions: 6439(16.0975%)
+Thu Mar  1 17:30:12 2018
+ New best: 2, 113 (collisions: 6371(15.9275%)
+Thu Mar  1 17:30:12 2018
+ New best: 2, 115 (collisions: 6231(15.5775%)
+Thu Mar  1 17:30:13 2018
+ New best: 2, 117 (collisions: 6032(15.08%)
+Thu Mar  1 17:30:14 2018
+ New best: 2, 119 (collisions: 5903(14.7575%)
+Thu Mar  1 17:30:15 2018
+ New best: 2, 123 (collisions: 5636(14.09%)
+Thu Mar  1 17:30:18 2018
+ New best: 2, 131 (collisions: 5433(13.5825%)
+Thu Mar  1 17:30:19 2018
+ New best: 2, 133 (collisions: 5378(13.445%)
+Thu Mar  1 17:30:20 2018
+ New best: 2, 135 (collisions: 5309(13.2725%)
+Thu Mar  1 17:30:42 2018
+ New best: 2, 199 (collisions: 5291(13.2275%)
+Thu Mar  1 17:31:06 2018
+ New best: 2, 263 (collisions: 5263(13.1575%)
+Thu Mar  1 17:31:41 2018
+ New best: 2, 359 (collisions: 5258(13.145%)
+Thu Mar  1 17:31:52 2018
+ New best: 2, 391 (collisions: 5256(13.14%)
+Thu Mar  1 17:34:02 2018
+ New best: 2, 743 (collisions: 5253(13.1325%)
+Thu Mar  1 17:34:13 2018
+ New best: 2, 775 (collisions: 5247(13.1175%)
+Thu Mar  1 17:37:31 2018
+ New best: 3, 333 (collisions: 5237(13.0925%)
+Thu Mar  1 17:37:33 2018
+ New best: 3, 339 (collisions: 5184(12.96%)
+Thu Mar  1 17:37:40 2018
+ New best: 3, 359 (collisions: 5094(12.735%)
+Thu Mar  1 17:37:54 2018
+ New best: 3, 397 (collisions: 5075(12.6875%)
+Thu Mar  1 17:37:57 2018
+ New best: 3, 403 (collisions: 5046(12.615%)
+Thu Mar  1 17:38:00 2018
+ New best: 3, 411 (collisions: 5040(12.6%)
+Thu Mar  1 17:38:03 2018
+ New best: 3, 421 (collisions: 5030(12.575%)
+Thu Mar  1 17:38:06 2018
+ New best: 3, 429 (collisions: 4998(12.495%)
+Thu Mar  1 17:38:16 2018
+ New best: 3, 455 (collisions: 4989(12.4725%)
+Thu Mar  1 17:38:18 2018
+ New best: 3, 461 (collisions: 4940(12.35%)
+Thu Mar  1 17:38:23 2018
+ New best: 3, 475 (collisions: 4934(12.335%)
+Thu Mar  1 17:38:27 2018
+ New best: 3, 485 (collisions: 4932(12.33%)
+Thu Mar  1 17:38:27 2018
+ New best: 3, 487 (collisions: 4911(12.2775%)
+Thu Mar  1 17:38:30 2018
+ New best: 3, 493 (collisions: 4883(12.2075%)
+Thu Mar  1 17:38:32 2018
+ New best: 3, 499 (collisions: 4866(12.165%)
+Thu Mar  1 17:38:40 2018
+ New best: 3, 519 (collisions: 4848(12.12%)
+Thu Mar  1 17:38:42 2018
+ New best: 3, 525 (collisions: 4846(12.115%)
+Thu Mar  1 17:38:44 2018
+ New best: 3, 531 (collisions: 4844(12.11%)
+Thu Mar  1 17:38:55 2018
+ New best: 3, 563 (collisions: 4843(12.1075%)
+Thu Mar  1 17:39:19 2018
+ New best: 3, 627 (collisions: 4841(12.1025%)
+Thu Mar  1 17:40:07 2018
+ New best: 3, 755 (collisions: 4835(12.0875%)
+Thu Mar  1 17:40:43 2018
+ New best: 3, 851 (collisions: 4834(12.085%)
+Thu Mar  1 17:40:54 2018
+ New best: 3, 883 (collisions: 4832(12.08%)
+Thu Mar  1 17:53:08 2018
+ New best: 5, 941 (collisions: 4827(12.0675%)
